@@ -1,0 +1,4 @@
+.search-bar:focus {
+  outline: none !important;
+  box-shadow: 0 0 5px #28a745;
+}

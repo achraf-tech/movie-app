@@ -1,0 +1,89 @@
+/* @import url("https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap"); */
+.App {
+  text-align: center;
+  font-family: "Abril Fatface", cursive;
+  background-image: url("https://images.hdqwalls.com/wallpapers/bthumb/joker-walking-alone-zb.jpg");
+  background-size: cover;
+  height: 700px;
+  width: 100%;
+ 
+
+}
+.baya{
+  background-color: blueviolet;
+
+}
+
+
+.App-logo {
+  height: 40vmin;
+  
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+.form-movie {
+  position: absolute;
+  top: 12.5%;
+  right: 25%;
+}
+.remove-form {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.spinner-border {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+}
+
+.display-2{
+
+  display: flex;
+flex-wrap: wrap;
+margin-left: 100px;
+justify-content: center ; 
+margin-left: 310px;
+padding: 0 100px;
+
+
+}
+
+
+.movieliste{
+
+  margin-left: -296px;
+}
+.m-auto text-success  p-5{
+
+  margin-top: 400px;
+}
+.btn-2{
+margin-top: 400px;
+
+}
+
+
+/* .card{
+  margin: 0 10px
+} */
+.card-2{
+  font-size: 25px;
+}
+.card-3{
+
+  font-size: 25px;
+}
